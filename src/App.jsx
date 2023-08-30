@@ -28,7 +28,7 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
-      <p>Esto esta funcionando en vivo</p>
+      <p>Este texto cambio porque actualice y comprobe que los datos se modifican</p>
     </>
   )
 }
